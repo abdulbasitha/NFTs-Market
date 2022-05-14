@@ -41,7 +41,7 @@ function Header() {
             </div>
 
             <div className={style.headerItemsMd}>
-                <Link href={"/collections/0x600e1f9dD6f71711dD025183c5a2d1e103c24674"} >
+                <Link href={"/collections/0xe70e40A3710A7dC6eDc3635694eB2e02EAE1B3C1"} >
                 <div className={style.headerItem}>Collections</div>
                 </Link>
                 <div className={style.headerItem}>Stats</div>
